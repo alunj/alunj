@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alun, CDI at AI-Priori
 - 👀 I’m interested in Data of all sorts, ML and AI
-- 🌱 I’m currently learning all sorts
+- 🌱 I’m currently learning stuff ervery day
 - 💞️ I’m looking to collaborate on: ontologies, synthetic data and weak signals
 - 📫 How to reach me, email alun.j@ai-priori.com
 
