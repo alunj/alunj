@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alun, CTO at AI-Priori
 - 👀 I’m interested in Data of all sorts, ML and AI
 - 🌱 I’m currently learning stuff ervery day
-- 💞️ I’m looking to collaborate on: ontologies, synthetic data and weak signals
+- 💞️ I’m looking to collaborate on: ontologies, synthetic data and detection of weak signal
 - 📫 How to reach me, email alun.j@ai-priori.com
 
 <!---
