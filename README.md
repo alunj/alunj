@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alun, CDI at AI-Priori
+- 👋 Hi, I’m Alun, CTO at AI-Priori
 - 👀 I’m interested in Data of all sorts, ML and AI
 - 🌱 I’m currently learning stuff ervery day
 - 💞️ I’m looking to collaborate on: ontologies, synthetic data and weak signals
